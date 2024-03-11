@@ -169,4 +169,6 @@ cython_debug/
 
 # project specific
 notebook/*.py
+notebook/*.csv
 notebook/img
+
