@@ -165,3 +165,8 @@ cython_debug/
 
 # macOS
 *.DS_Store
+
+
+# project specific
+notebook/*.py
+notebook/img
