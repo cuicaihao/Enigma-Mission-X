@@ -12,8 +12,8 @@
 ## Background
 Inspired by [Enigma - Mission X Challenge](https://www.101computing.net/enigma-mission-x-challenge/), this repo is used to save the research and practice efforts in Different Cipher methods. The primary goals are using python programming language to achieve targets listed as follows:
 
-- [x] Revisit Basic Cipher Methods
-- [ ] Digital Enigma Cipher Machine Emulator
+- [X] Revisit Basic Cipher Methods
+- [X] Digital Enigma Cipher Machine Emulator (Draft)
 - [ ] Turing-Welchman Bombe Simulator
 - [ ] Story Telling & Knowledge Sharing
 
